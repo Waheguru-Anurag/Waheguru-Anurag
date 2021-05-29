@@ -11,7 +11,8 @@ I am Anurag, CSE sophomore at [IIT Roorkee](https://www.iitr.ac.in/) and a membe
 &nbsp;
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Waheguru-Anurag&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Waheguru-Anurag&show_icons=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waheguru-Anurag&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Waheguru-Anurag&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waheguru-Anurag&hide=css,html,makefile&layout=compact&langs_count=6)](https://github-readme-stats.vercel.app/api/top-langs/?username=Waheguru-Anurag&hide=css,html,makefile&layout=compact&langs_count=6)
+
 <!--
 **Waheguru-Anurag/Waheguru-Anurag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
