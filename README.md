@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Linkedin Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-bansal-2001/)&nbsp;&nbsp;&nbsp;
-[![Linkedin Profile](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anuragbansal2001)
+[![Linkedin Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragbansal1201/)&nbsp;&nbsp;&nbsp;
+[![Linkedin Profile](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anuragbansal1201)
 
 I am Anurag, CSE sophomore at [IIT Roorkee](https://www.iitr.ac.in/) and a member of [Mobile Development Group](https://github.com/mdg-iitr). I am an avid learner and love to take up challenges 👊.
 
