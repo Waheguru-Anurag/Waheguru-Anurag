@@ -3,7 +3,7 @@
 [![Linkedin Profile](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anuragbansal1201)
 
 <p style="margin-left:40px;">
-[] Software Engineer with 3+ years of experience building scalable backend systems and cloud infrastructure in fast-paced startup environments. Passionate about designing efficient architectures, writing clean code, and solving complex engineering problems.
+Software Engineer with 3+ years of experience building scalable backend systems and cloud infrastructure in fast-paced startup environments. Passionate about designing efficient architectures, writing clean code, and solving complex engineering problems.
 \
 &nbsp;
 </p>
