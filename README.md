@@ -4,9 +4,9 @@
 
 <p style="margin-left:40px;">
 [] Software Engineer with 3+ years of experience building scalable backend systems and cloud infrastructure in fast-paced startup environments. Passionate about designing efficient architectures, writing clean code, and solving complex engineering problems.
-</p>
 \
 &nbsp;
+</p>
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Waheguru-Anurag&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Waheguru-Anurag&show_icons=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waheguru-Anurag&hide=css,html,makefile&layout=compact&langs_count=6)](https://github-readme-stats.vercel.app/api/top-langs/?username=Waheguru-Anurag&hide=css,html,makefile&layout=compact&langs_count=6)
