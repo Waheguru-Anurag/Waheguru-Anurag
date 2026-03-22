@@ -2,11 +2,9 @@
 [![Linkedin Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragbansal1201/)&nbsp;&nbsp;&nbsp;
 [![Linkedin Profile](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anuragbansal1201)
 
-<p style="margin-left:40px;">
 Software Engineer with 3+ years of experience building scalable backend systems and cloud infrastructure in fast-paced startup environments. Passionate about designing efficient architectures, writing clean code, and solving complex engineering problems.
 \
 &nbsp;
-</p>
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Waheguru-Anurag&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Waheguru-Anurag&show_icons=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waheguru-Anurag&hide=css,html,makefile&layout=compact&langs_count=6)](https://github-readme-stats.vercel.app/api/top-langs/?username=Waheguru-Anurag&hide=css,html,makefile&layout=compact&langs_count=6)
