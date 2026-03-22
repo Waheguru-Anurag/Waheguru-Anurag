@@ -2,11 +2,7 @@
 [![Linkedin Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragbansal1201/)&nbsp;&nbsp;&nbsp;
 [![Linkedin Profile](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anuragbansal1201)
 
-I am Anurag, CSE sophomore at [IIT Roorkee](https://www.iitr.ac.in/) and a member of [MDG Space](https://github.com/mdgspace). I am an avid learner and love to take up challenges 👊.
-
-- I am doing Flutter Projects and Learning React these days.
-- I am also trying to explore Deep Learning.
-- How to reach me: [anuragbansal1201@gmail.com](mailto:anuragbansal1201@gmail.com)
+Software Engineer with 3+ years of experience building scalable backend systems and cloud infrastructure in fast-paced startup environments. Passionate about designing efficient architectures, writing clean code, and solving complex engineering problems.
 \
 &nbsp;
 
